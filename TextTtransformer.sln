@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextTtransformer", "TextTtransformer\TextTtransformer.csproj", "{A7036421-5073-413B-93AD-B66007C09848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTextTransformer", "UnitTestTextTransformer\UnitTestTextTransformer.csproj", "{76197034-FF24-4D3D-A093-4E38BEE9A53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7036421-5073-413B-93AD-B66007C09848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7036421-5073-413B-93AD-B66007C09848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7036421-5073-413B-93AD-B66007C09848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7036421-5073-413B-93AD-B66007C09848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76197034-FF24-4D3D-A093-4E38BEE9A53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76197034-FF24-4D3D-A093-4E38BEE9A53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76197034-FF24-4D3D-A093-4E38BEE9A53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76197034-FF24-4D3D-A093-4E38BEE9A53C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
